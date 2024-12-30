@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Python code:  incorrect handling of input validation. The `calculate_average` function works correctly for lists of numbers, but fails if the input list is empty or contains non-numeric elements.  The solution addresses these issues using more robust error handling.
